@@ -1,0 +1,26 @@
+{
+  "name": "simplenote-backup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Back up your SimpleNote application data",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier-standard --format"
+  },
+  "repository": "https://github.com/zeke/simplenote-backup",
+  "keywords": [
+    "notes",
+    "backup",
+    "Automattic",
+    "SimpleNote",
+    "Node.js",
+    "Electron",
+    "Chromium",
+    "IndexedDB"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier-standard": "^16.1.0"
+  }
+}
